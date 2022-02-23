@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the Two White Posts, against the statue, at Charing-Cross, on Thursday the 18th. instant at three in the afternoon, will be exposed to sale, a curious collection of original paintings, and other excellent copies, of the best masters; some fit for closets, chimneys, stair-cases, &amp;c. Continuing daily, till all be sold. By Mr. Wright junior. Catalogues may be had at Mr. Nott's in the Pall-Mall, at Mr. Playford's near the Temple-Church, and at the place of sale, gratis.</title>
+            <author>Wright, Mr., junior.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35458</idno>
+            <idno type="STC">Wing C7636</idno>
+            <idno type="STC">ESTC R214339</idno>
+            <idno type="EEBO-CITATION">99826532</idno>
+            <idno type="PROQUEST">99826532</idno>
+            <idno type="VID">30935</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30935)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1828:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the Two White Posts, against the statue, at Charing-Cross, on Thursday the 18th. instant at three in the afternoon, will be exposed to sale, a curious collection of original paintings, and other excellent copies, of the best masters; some fit for closets, chimneys, stair-cases, &amp;c. Continuing daily, till all be sold. By Mr. Wright junior. Catalogues may be had at Mr. Nott's in the Pall-Mall, at Mr. Playford's near the Temple-Church, and at the place of sale, gratis.</title>
+                  <author>Wright, Mr., junior.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30935:1"/>
+            <p>AT THE <hi>Two White Poſts,</hi> Againſt the STATUE, AT Charing-Croſs, On <hi>Thurſday</hi> the 18<hi rend="sup">th.</hi> Inſtant at Three in the Afternoon.</p>
+            <p>
+               <hi>Will be Expoſed to SALE,</hi> A Curious Collection of Original Paintings, and other Excellent Copies, of the beſt Maſters; ſome fit for Cloſets, Chimneys, Stair-Caſes, <hi>&amp;c.</hi> Continuing daily, till all be Sold.</p>
+            <p>By Mr. <hi>WRIGHT</hi> Junior.</p>
+            <p>CATALOGUES may be had at Mr. <hi>Nott's</hi> in the <hi>Pall-Mall,</hi> at Mr. <hi>Playford's</hi> near the <hi>Temple-Church,</hi> and at the place of Sale, <hi>Gratis.</hi>
+            </p>
+         </div>
+         <div type="conditions_of_sale">
+            <pb facs="tcp:30935:2"/>
+            <head>The Conditions of SALE.</head>
+            <p n="1">I. THat he or ſhe that bids moſt, is the Buyer: And if any difference ariſe, which the Com<g ref="char:EOLhyphen"/>pany cannot decide, then the ſaid Lot ſo bought ſhall be expoſed to Sale again.</p>
+            <p n="2">II. That the Money for the Goods ſo bought, is to be paid at the place of Sale within I hree Days after the Sale is ended; but for the conveniency of them that deſire them ſooner, conſtant Attendance will be given every day at the ſaid Place.</p>
+            <p n="3">III. That all Gentlemen and Ladies, &amp;c. after the Buying any Lot, will be pleaſed to give in their Names and Lodgings, at the Sale; otherwiſe to pay the third part of the Price, or the whole Money pre<g ref="char:EOLhyphen"/>ſently for them, where, upon Payment of the remainder within the time limited, the ſaid Goods ſhall be deli<g ref="char:EOLhyphen"/>vered to them or their Order; they paying Porterage, if they deſire to have their Goods carried home.</p>
+            <p n="4">IV. That no Perſon is to bid leſs than Six Pence a time for any Lot expoſed to Sale.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_paintings">
+            <pb n="1" facs="tcp:30935:2"/>
+            <head>A Curious Collection OF <hi>Original Paintings,</hi> &amp;c.</head>
+            <list>
+               <item>1 SAint <hi>Sebaſtian,</hi> after <hi>Van Dyke.</hi>
+               </item>
+               <item>2 A Winter and Summer, neatly done.</item>
+               <item>3 A Proſpect of a Town, by a <hi>Dutch</hi> Maſter.</item>
+               <item>4 An Original Fire-piece.</item>
+               <item>5 The Prince of <hi>Orange</hi> when newly married</item>
+               <item>6 The Princeſs of <hi>Orange</hi> when newly married</item>
+               <item>7 A ſmall Landſchape with Cows.</item>
+               <item>8 A Head of <hi>Suſannah</hi> as big as the Life, an Original.</item>
+               <item>9 A Half-length of Sir <hi>Peter Lilly,</hi> an Original.</item>
+               <item>10 Queen <hi>Catharine,</hi> after Mr <hi>Houſman.</hi>
+               </item>
+               <item>11 An Original Head of <hi>Paulo Veroneſe.</hi>
+               </item>
+               <item>12 A Water-fall, by <hi>Knife.</hi>
+               </item>
+               <item>13 A Head of King <hi>James.</hi>
+               </item>
+               <item>14 A Head of Queen <hi>Mary.</hi>
+               </item>
+               <item>15 A Thiſtle, well done.</item>
+               <item>16 A Piece of <hi>Amphion</hi> on a Dolphin.</item>
+               <item>17 <hi>Alpheus</hi> and <hi>Arethuſa.</hi>
+               </item>
+               <item>18 The Twelve Emperours, after <hi>Titian.</hi>
+               </item>
+               <item>19 An Original Head, by <hi>Cornelius Jonſon.</hi>
+               </item>
+               <item>20 A ſmall Head in Limning.</item>
+               <item>21 Another <hi>duto.</hi>
+               </item>
+               <item>22 A Fruit-pieco, well done.</item>
+               <pb n="2" facs="tcp:30935:3"/>
+               <item>23 A Head of the preſent Grand Signior.</item>
+               <item>24 A Head of the Pope.</item>
+               <item>25 A Head of <hi>Cromwell,</hi> after <hi>D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pſon.</hi>
+               </item>
+               <item>26 A Head of the Lady <hi>Hamilton.</hi>
+               </item>
+               <item>27 The Lady <hi>Clapo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l,</hi> by Mr <hi>Wright</hi> ſenior.</item>
+               <item>28 The Dutcheſs of <hi>Monmouth,</hi> by Mr. <hi>Wright</hi> ſenior.</item>
+               <item>29 A large Piece of the Hunting of a Lion.</item>
+               <item>30 A large Landſchape of a Gentlemans houſe.</item>
+               <item>31 A Man with a Jug, well painted.</item>
+               <item>32 A Head of Sir <hi>William Ruſſel,</hi> ſuppoſed of <hi>Van Dyke.</hi>
+               </item>
+               <item>33 A large Piece of <hi>Paying Tribute to Gaeſar,</hi> after <hi>Ruben's.</hi>
+               </item>
+               <item>34 A Piec<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Grown and Sc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</item>
+               <item>35 The Hiſtory of <hi>Perſeus</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <hi>Andromeda.</hi>
+               </item>
+               <item>36 A Sea-Triumph.</item>
+               <item>37 A great Dog, after <hi>Van Dyke.</hi>
+               </item>
+               <item>38 A great piece of <hi>Noah</hi> with his Family, offering a Sacrifice after the Deluge.</item>
+               <item>39 A Head of King <hi>Charles</hi> the Firſt in Armour, after <hi>Van Dyke.</hi>
+               </item>
+               <item>40 An excellent Head in <hi>Croyons,</hi> of the Lady <hi>Strangford,</hi> Original; by Mr. <hi>Wright</hi> Senior.</item>
+               <item>41 A large piece of <hi>Uliſſes</hi> in Storm.</item>
+               <item>42 An excellent Copy of <hi>Venus</hi> after <hi>Tition,</hi> the Motto <hi>Vanitas.</hi>
+               </item>
+               <item>42 An Original Painting of Boys and Goats.</item>
+               <item>43 King <hi>Charles</hi> the Firſt in Three ſeveral Views, after <hi>Van Dyke,</hi> by Mr. <hi>Wright</hi> Senior.</item>
+               <item>44 <hi>Narciſſus</hi> and <hi>Eccho.</hi>
+               </item>
+               <item>45 A Lanskip of <hi>Paulo Brill.</hi>
+               </item>
+               <item>46 A Lanskip of <hi>Grimaldi Bolognes.</hi>
+               </item>
+               <item>47 Another of <hi>Grimaldi Bolognes.</hi>
+               </item>
+               <item>48 A Lanskip of <hi>Hannibal Caracci.</hi>
+               </item>
+               <item>49 A piece of Rocks of <hi>Xavery.</hi>
+               </item>
+               <item>50 A little piece of <hi>Rocks.</hi>
+               </item>
+               <item>51 A piece of a <hi>Skeleton</hi> treading amongſt the Heads of Princes.</item>
+               <item>52 A piece of Mr. <hi>John Lacy</hi> the Comedian in Three different Poſtures, as the Life; of <hi>Sawney</hi> in the <hi>Taming of the Sbrow,</hi> Par<g ref="char:EOLhyphen"/>ſon <hi>Scruple</hi> in the <hi>Cheats,</hi> and Monſieur <hi>du Vice</hi> in the <hi>Country Captain.</hi>
+               </item>
+               <item>53 A leſſer piece of the ſame.</item>
+               <pb n="3" facs="tcp:30935:3"/>
+               <item>54 A Piper Courting of a Woman, after <hi>Cornelius Honthoſt.</hi>
+               </item>
+               <item>55 A large piece of <hi>Suſanna</hi> and the Elders, after <hi>Schut.</hi>
+               </item>
+               <item>56 A piece of the burning of <hi>Troy,</hi> after <hi>Tintoret.</hi>
+               </item>
+               <item>57 <hi>Achilles</hi> amongſt the Daughters of <hi>Licomedes</hi> in a Female Habit, after <hi>Van Dyke.</hi>
+               </item>
+               <item>58 An Original Painting of Satyrs ſtriving for a Kettle of <hi>Wine.</hi>
+               </item>
+               <item>59 A little piece of <hi>Venus,</hi> after <hi>Titian</hi> and <hi>Vanitas.</hi>
+               </item>
+               <item>60 A piece of <hi>Suſanna,</hi> after <hi>S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hut.</hi>
+               </item>
+               <item>61 A piece of <hi>Lacy</hi> the Comedian, the ſame as the former.</item>
+               <item>62 A Head of <hi>Innocent</hi> the Eleventh.</item>
+               <item>63 A Head of <hi>Cromwel.</hi>
+               </item>
+               <item>64 A Head of the <hi>Grand Signior.</hi>
+               </item>
+               <item>65 A Head of the Queen, after <hi>Wiſſon.</hi>
+               </item>
+               <item>66 A little piece of Parrots.</item>
+               <item>67 A little Otangle in Limning.</item>
+               <item>68 Another <hi>Ditto.</hi>
+               </item>
+               <item>69 A little Dutch piece on Board neatly done</item>
+               <item>70 St. <hi>John Evangeliſt</hi> on Allabaſter finely done.</item>
+               <item>71 A piece of Boys cut in Tortoiceſhell.</item>
+               <item>72 A little Lanskip in Limning with a Pyramid.</item>
+               <item>73 The laſt Supper in Alabaſter.</item>
+               <item>74 A large piece of <hi>Jacob</hi> going into <hi>Egypt</hi> with his whole Family, by <hi>Jeſus.</hi>
+               </item>
+               <item>75 The Lady <hi>Newport,</hi> after <hi>Van Dyke.</hi>
+               </item>
+               <item>76 A Naked Boy repreſenting Mortality, ſuppoſed of <hi>Carrat.</hi>
+               </item>
+               <item>77 A Lanskip of one of the <hi>Brugh.</hi>
+               </item>
+               <item>78 A Head by the Life.</item>
+               <item>79 A <hi>Turk's</hi> Head in Crions.</item>
+               <item>80 Two other Heads.</item>
+               <item>81 A Boys Head.</item>
+               <item>82 The preſent Queen's Head after <hi>Wiſſon.</hi>
+               </item>
+               <item>83 A Crucifix, an Original, done at <hi>Rome.</hi>
+               </item>
+               <item>84 A Lanskip after the manner of <hi>Vouters.</hi>
+               </item>
+               <item>85 A Lanskip of the manner of <hi>Poloveroneſe.</hi>
+               </item>
+               <item>86 Charity, after <hi>Van Dyke.</hi>
+               </item>
+               <item>87 <hi>Pſyche</hi> and <hi>Cupid</hi> of <hi>Vouters.</hi>
+               </item>
+               <item>88 A large piece of <hi>Daphne</hi> and <hi>Apollo,</hi> an Original well Painted.</item>
+               <item>89 A Lanskip of a Town, and Ruine, well Painted.</item>
+               <pb n="4" facs="tcp:30935:4"/>
+               <item>90 A Lanskip with Houſes, <hi>Ditto.</hi>
+               </item>
+               <item>91 A Winter and Summer neatly done.</item>
+               <item>92 A large piece of <hi>Uliſſes</hi> tyed to the Maſt of his Gally.</item>
+               <item>93 A Storm well done.</item>
+               <item>94 A Lanskip, and Aſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Cow.</item>
+               <item>95 A piece of Beggars neatly done</item>
+               <item>96 The Angel and <hi>Hagar.</hi>
+               </item>
+               <item>97 The Angel and the Thraſher.</item>
+               <item>98 King <hi>William</hi> on Horſe back finely done.</item>
+               <item>99 A City on Fire well done.</item>
+               <item>100 A Winter.</item>
+               <item>101 The Road to <hi>Black-Heath.</hi>
+               </item>
+               <item>102 A Lanskip after <hi>Walter Cabers.</hi>
+               </item>
+               <item>103 A Head in Crions by the <hi>Borgignon.</hi>
+               </item>
+               <item>104 Another <hi>ditto.</hi>
+               </item>
+               <item>105 An Original Storm piece, by <hi>Artonell.</hi>
+               </item>
+               <item>106 A Droll, by a good Maſter.</item>
+               <item>107 A Winter and Summer.</item>
+               <item>108 <hi>Lot</hi> and his two Daughters, well done.</item>
+               <item>109 A ſmall Piece of Flowers.</item>
+               <item>110 A Crucifix in an Ebony Frame.</item>
+               <item>111 A Head of King <hi>Charles</hi> the 2d of Sir <hi>Peter Lilly.</hi>
+               </item>
+               <item>112 St. <hi>Peter</hi> in his Penitence, with a Cock crowing, Original.</item>
+               <item>113 King <hi>James,</hi> a Half-length.</item>
+               <item>114 Queen <hi>Mary,</hi> a Half-length.</item>
+               <item>115 A ſmall Sea-ſtorm in a black Frame.</item>
+               <item>116 A Landſchape, <hi>ditto.</hi>
+               </item>
+               <item>117 A ſmall piece in a black Frame, <hi>ditto.</hi>
+               </item>
+               <item>118 A ſmall piece of St. <hi>Francis.</hi>
+               </item>
+               <item>119 A Piece of <hi>Achilles</hi> in a Female habit, among the Daughters of <hi>Lecomes,</hi> well done.</item>
+               <item>120 A Winter and Summer, by a good Maſter.</item>
+               <item>121 A Proſpect through a Rock, <hi>ditto.</hi>
+               </item>
+               <item>122 A Droll, after <hi>Brower.</hi>
+               </item>
+               <item>123 A Winter and Summer, by a <hi>Dutch</hi> Maſter.</item>
+               <item>124 A Winter-piece, by a <hi>Dutch</hi> Maſter.</item>
+               <item>125 A Landſchape, <hi>ditto.</hi>
+               </item>
+               <item>126 King <hi>James,</hi> after <hi>Wiſſon.</hi>
+               </item>
+               <pb n="5" facs="tcp:30935:4"/>
+               <item>127 A Head of the preſent Grand Signior.</item>
+               <item>128 A Head of Pope <hi>Innocent</hi> the 11th.</item>
+               <item>129 A Winter and Summer, by a <hi>Dutch</hi> Maſter.</item>
+               <item>130 An Original Fire-piece.</item>
+               <item>131 King <hi>Charles</hi> the Firſt on Horſeback, after <hi>Van Dyke.</hi>
+               </item>
+               <item>132 <hi>Bacchus</hi> and <hi>Philemon.</hi>
+               </item>
+               <item>133 <hi>Chriſt</hi> and <hi>Nicodemus.</hi>
+               </item>
+               <item>134 A Proſpect through a Rock.</item>
+               <item>135 A Landſchape, <hi>ditto.</hi>
+               </item>
+               <item>136 Winter, <hi>ditto.</hi>
+               </item>
+               <item>137 Fire-piece, <hi>ditto</hi>
+               </item>
+               <item>138 A Flower Piece, by <hi>Verelſe.</hi>
+               </item>
+               <item>139 A Lanskip in an Ebony-Frame.</item>
+               <item>140 A Lanskip well done.</item>
+               <item>141 A Lanskip by <hi>Veſtrado.</hi>
+               </item>
+               <item>142 A Flower Piece in Limning, well done.</item>
+               <item>143 General <hi>Lambert's</hi> Head, well done.</item>
+               <item>144 A Head of King <hi>James.</hi>
+               </item>
+               <item>145 Two Boys playing with a Goat, an Original Painting.</item>
+               <item>146 A ſmall Piece of the Aſcenſion of Chriſt.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
